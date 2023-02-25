@@ -1,0 +1,6 @@
+Check list minimal
+id
+Input
+Title
+Steps
+Expected Result
